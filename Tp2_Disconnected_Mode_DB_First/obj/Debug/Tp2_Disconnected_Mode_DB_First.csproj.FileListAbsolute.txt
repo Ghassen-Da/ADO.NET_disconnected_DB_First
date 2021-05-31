@@ -1,0 +1,16 @@
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\Tp2_Disconnected_Mode_DB_First.exe.config
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\Tp2_Disconnected_Mode_DB_First.exe
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\Tp2_Disconnected_Mode_DB_First.pdb
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.Permissions.dll
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.Permissions.xml
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\obj\Debug\Tp2_Disconnected_Mode_DB_First.csprojAssemblyReference.cache
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\obj\Debug\Tp2_Disconnected_Mode_DB_First.csproj.CoreCompileInputs.cache
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\obj\Debug\Tp2_Disconnected_Mode_DB_First.csproj.CopyComplete
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\obj\Debug\Tp2_Disconnected_Mode_DB_First.exe
+C:\Users\ghass\source\repos\Tp2_Disconnected_Mode_DB_First\Tp2_Disconnected_Mode_DB_First\obj\Debug\Tp2_Disconnected_Mode_DB_First.pdb
